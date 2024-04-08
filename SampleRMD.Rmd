@@ -2,9 +2,7 @@
 title: "Sample RMarkdown Document"
 author: "Brian Gill"
 date: "2024-04-08"
-output: 
-  html_document: 
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
